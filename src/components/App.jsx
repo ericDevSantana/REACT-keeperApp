@@ -7,7 +7,7 @@ import notes from "../notes";
 // function createNote(note){
 //    return(
 //       <Note
-//       key={note.id}
+//       key={note.key}
 //       title={note.title}
 //       content={note.content}
 //       />
@@ -19,7 +19,7 @@ function App() {
     <Header/>
     {notes.map((note) => (
       <Note
-         key={note.id}
+         key={note.key}
          title={note.title}
          content={note.content}
       />
