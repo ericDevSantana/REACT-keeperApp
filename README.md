@@ -1,4 +1,5 @@
 # Keeper App - Sticker Notes </br>
+![alt-text](https://github.com/ericDevSantana/REACT-keeperApp/blob/master/keeper.png)</br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
